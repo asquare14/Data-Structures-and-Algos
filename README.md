@@ -4,9 +4,9 @@ Important Data Structures and Algorithms.
 
 ## Arrays
 
-- [x] Binary Search
-- [x] Sieve
-- [x] Sliding Window Technique
+- [ ] Binary Search
+- [ ] Sieve
+- [ ] Sliding Window Technique
 
 ## Bit Manipulation
 
@@ -59,10 +59,10 @@ Important Data Structures and Algorithms.
 - [x] Flatten Tree
 - [x] Height of Tree
 - [x] Iterative Traversals
-- [x] Lowest Common Ancestor
+- [ ] Lowest Common Ancestor
 - [x] Level Order Traversal
 - [x] Recursive Traversals
-- [x] Serialize and Deserialize Trees
+- [ ] Serialize and Deserialize Trees
 
 
 
