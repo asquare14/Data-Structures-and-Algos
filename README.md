@@ -28,10 +28,11 @@ Important Data Structures and Algorithms.
 - [x] Connected Components
 - [x] DFS Calculate entry and exit time
 - [x] DFS
-- [ ] Diisktra
+- [ ] Dijisktra
 - [x] Shortest Path in Unweighted Graph
-- [ ] Kruskal
-- [ ] Disjoint Set Union
+- [x] Kruskal
+- [x] Disjoint Set Union
+- [ ] Topological Sort
 
 ## Hashing
 
