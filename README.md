@@ -35,6 +35,7 @@ Important Data Structures and Algorithms.
 - [ ] Dijisktra
 - [x] Shortest Path in Unweighted Graph
 - [x] Kruskal
+- [ ] Graph Colouring
 - [x] Disjoint Set Union
 - [ ] Topological Sort
 - [ ] Floyd Warshall
