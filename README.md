@@ -10,7 +10,11 @@ Important Data Structures and Algorithms.
 
 ## Bit Manipulation
 
+- [ ] Count Set Bits
+
 ## BST
+
+- [ ] Search, Insert, Delete, Find
 
 
 ## Dynamic Programming
@@ -37,11 +41,11 @@ Important Data Structures and Algorithms.
 
 ## Hashing
 
+ - [ ] Various Types of Hashing
+
 ## Linked List
 
 - [x] Basic stuff 
-
-## Queue
 
 ## Searching and Sorting
 
@@ -71,8 +75,19 @@ Important Data Structures and Algorithms.
 ## Strings
 
 - [ ] Manacher's Algorithm
+- [ ] Rabin Karp
+- [ ] Palindrome Type Questions 
+
+## Design Questions
+
+- [ ] Refer Leetcode
+
+## Optional 
+
+- [ ] Binary Indexed Tree
+- [ ] Segment Tree
+- [ ] AVL Tree
 - [ ] KMP
-- [ ] Robin Karp
 
 
 
