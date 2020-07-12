@@ -33,6 +33,7 @@ Important Data Structures and Algorithms.
 - [x] Kruskal
 - [x] Disjoint Set Union
 - [ ] Topological Sort
+- [ ] Floyd Warshall
 
 ## Hashing
 
@@ -51,11 +52,12 @@ Important Data Structures and Algorithms.
 - [ ] Radix Sort
 - [ ] Count Sort
 
-## Stack
+## Stack and Queues
 
+- [ ] LRU Cache
+- [ ] LFU Cache
 
-
-## Trees
+## Trees/Tries
 
 - [x] Flatten Tree
 - [x] Height of Tree
@@ -64,7 +66,13 @@ Important Data Structures and Algorithms.
 - [x] Level Order Traversal
 - [x] Recursive Traversals
 - [ ] Serialize and Deserialize Trees
+- [x] Trie
 
+## Strings
+
+- [ ] Manacher's Algorithm
+- [ ] KMP
+- [ ] Robin Karp
 
 
 
