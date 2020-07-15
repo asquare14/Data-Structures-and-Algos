@@ -16,7 +16,6 @@ Important Data Structures and Algorithms.
 
 - [ ] Search, Insert, Delete, Find
 
-
 ## Dynamic Programming
 
 - [ ] [AtCoder DP contest](https://atcoder.jp/contests/dp/tasks)
@@ -47,6 +46,10 @@ Important Data Structures and Algorithms.
 ## Linked List
 
 - [x] Basic stuff 
+- [ ] Merge Sort a Linked List
+- [ ] Fast Pointer, Slow Pointer technique
+- [ ] Reverse LL
+- [ ] Doubly Linked List
 
 ## Searching and Sorting
 
@@ -83,7 +86,7 @@ Important Data Structures and Algorithms.
 
 - [ ] Refer Leetcode
 
-## Optional 
+## Optional/Theory only
 
 - [ ] Binary Indexed Tree
 - [ ] Segment Tree
