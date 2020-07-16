@@ -43,6 +43,7 @@ Important Data Structures and Algorithms.
 ## Hashing
 
  - [ ] Various Types of Hashing
+ - [ ] Rolling Hash
 
 ## Linked List
 
