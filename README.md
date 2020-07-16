@@ -23,6 +23,7 @@ Important Data Structures and Algorithms.
 - [x] [Geeks for Geeks Top 20](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
 
 - [ ] [Top Code DP tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) (Did novice and intermediate)
+- [ ] Watch Tushar Roy Videos
 
 ## Graphs
 
