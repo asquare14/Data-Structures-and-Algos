@@ -59,6 +59,7 @@ Important Data Structures and Algorithms.
 - [ ] Merge Sort
 - [ ] Radix Sort
 - [ ] Count Sort
+- [ ] Heap Sort
 
 ## Stack and Queues
 
