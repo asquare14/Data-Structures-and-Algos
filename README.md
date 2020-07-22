@@ -7,6 +7,8 @@ Important Data Structures and Algorithms.
 - [ ] Binary Search
 - [ ] Sieve
 - [ ] Sliding Window Technique
+- [ ] Recursion and Backtracking 
+- [ ] N_Queens (BacktoBackSWE)
 
 ## Bit Manipulation
 
