@@ -80,6 +80,8 @@ Important Data Structures and Algorithms.
 - [ ] Lowest Common Ancestor
 - [x] Level Order Traversal
 - [x] Recursive Traversals
+- [ ] Diagonal Traversal
+- [ ] Vertical Traversal
 - [ ] Serialize and Deserialize Trees
 - [x] Trie
 
