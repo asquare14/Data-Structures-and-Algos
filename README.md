@@ -4,11 +4,12 @@ Important Data Structures and Algorithms.
 
 ## Arrays
 
-- [ ] Binary Search
+- [ ] Binary Search [(TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
 - [ ] Sieve
 - [ ] Sliding Window Technique
 - [ ] Recursion and Backtracking 
 - [ ] N_Queens (BacktoBackSWE)
+- [ ] Tortoise and Hare Pointer 
 
 ## Bit Manipulation
 
@@ -41,7 +42,6 @@ Important Data Structures and Algorithms.
 - [x] Disjoint Set Union
 - [ ] Topological Sort
 - [ ] Floyd Warshall
-
 ## Hashing
 
  - [ ] Various Types of Hashing
