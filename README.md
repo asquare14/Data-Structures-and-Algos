@@ -101,6 +101,7 @@ Important Data Structures and Algorithms.
 - [ ] Segment Tree
 - [ ] AVL Tree
 - [ ] KMP
+- [ ] [Cartesian Tree](https://www.geeksforgeeks.org/cartesian-tree/)
 
 
 
