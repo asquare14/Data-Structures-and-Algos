@@ -42,6 +42,7 @@ Important Data Structures and Algorithms.
 - [x] Disjoint Set Union
 - [ ] Topological Sort
 - [ ] Floyd Warshall
+- [ ] [HierHolzers Algorithm](https://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/)
 ## Hashing
 
  - [ ] Various Types of Hashing
