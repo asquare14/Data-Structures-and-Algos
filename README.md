@@ -21,10 +21,9 @@ Important Data Structures and Algorithms.
 
 ## Dynamic Programming
 
-- [ ] [AtCoder DP contest](https://atcoder.jp/contests/dp/tasks)
-
 - [x] [Geeks for Geeks Top 20](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
-
+- [ ] Aditya Verma [Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+- [ ] [AtCoder DP contest](https://atcoder.jp/contests/dp/tasks)
 - [ ] [Top Code DP tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) (Did novice and intermediate)
 - [ ] Watch Tushar Roy Videos
 
