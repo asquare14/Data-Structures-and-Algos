@@ -1,0 +1,1 @@
+// Three templates of Binary Search

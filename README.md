@@ -4,7 +4,6 @@ Important Data Structures and Algorithms.
 
 ## Arrays
 
-- [ ] Binary Search
 - [ ] Sieve
 - [ ] Sliding Window Technique
 
@@ -64,6 +63,7 @@ Important Data Structures and Algorithms.
 - [ ] Radix Sort
 - [ ] Count Sort
 - [ ] Heap Sort
+- [ ] Binary Search
 
 ## Stack and Queues
 
