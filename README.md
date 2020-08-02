@@ -4,8 +4,12 @@ Important Data Structures and Algorithms.
 
 ## Arrays
 
+- [ ] Binary Search [(TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
 - [ ] Sieve
 - [ ] Sliding Window Technique
+- [ ] Recursion and Backtracking 
+- [ ] N_Queens (BacktoBackSWE)
+- [ ] Tortoise and Hare Pointer 
 
 ## Bit Manipulation
 
@@ -17,10 +21,9 @@ Important Data Structures and Algorithms.
 
 ## Dynamic Programming
 
-- [ ] [AtCoder DP contest](https://atcoder.jp/contests/dp/tasks)
-
 - [x] [Geeks for Geeks Top 20](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
-
+- [ ] Aditya Verma [Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+- [ ] [AtCoder DP contest](https://atcoder.jp/contests/dp/tasks)
 - [ ] [Top Code DP tutorial](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/) (Did novice and intermediate)
 - [ ] Watch Tushar Roy Videos
 
@@ -38,7 +41,7 @@ Important Data Structures and Algorithms.
 - [x] Disjoint Set Union
 - [ ] Topological Sort
 - [ ] Floyd Warshall
-
+- [ ] [HierHolzers Algorithm](https://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/)
 ## Hashing
 
  - [ ] Various Types of Hashing
@@ -78,6 +81,8 @@ Important Data Structures and Algorithms.
 - [ ] Lowest Common Ancestor
 - [x] Level Order Traversal
 - [x] Recursive Traversals
+- [ ] Diagonal Traversal
+- [ ] Vertical Traversal
 - [ ] Serialize and Deserialize Trees
 - [x] Trie
 
@@ -97,6 +102,7 @@ Important Data Structures and Algorithms.
 - [ ] Segment Tree
 - [ ] AVL Tree
 - [ ] KMP
+- [ ] [Cartesian Tree](https://www.geeksforgeeks.org/cartesian-tree/)
 
 
 
