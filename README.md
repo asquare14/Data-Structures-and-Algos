@@ -39,8 +39,9 @@ Important Data Structures and Algorithms.
 - [x] Kruskal
 - [ ] Graph Colouring
 - [x] Disjoint Set Union
-- [ ] Topological Sort
+- [x] Topological Sort
 - [ ] Floyd Warshall
+- [x] Convex Hull
 - [ ] [HierHolzers Algorithm](https://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/)
 ## Hashing
 
@@ -59,9 +60,9 @@ Important Data Structures and Algorithms.
 
 ## Searching and Sorting
 
-- [ ] Bubble Sort
-- [ ] Insertion Sort
-- [ ] Quick Sort
+- [x] Bubble Sort
+- [x] Insertion Sort
+- [x] Quick Sort
 - [ ] Merge Sort
 - [ ] Radix Sort
 - [ ] Count Sort
