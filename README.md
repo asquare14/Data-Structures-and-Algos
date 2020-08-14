@@ -19,6 +19,7 @@ Important Data Structures and Algorithms.
 ## BST
 
 - [ ] Search, Insert, Delete, Find
+- [ ] Leetcode List
 
 ## Dynamic Programming
 
