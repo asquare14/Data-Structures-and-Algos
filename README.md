@@ -31,6 +31,7 @@ Important Data Structures and Algorithms.
 
 - [x] 0-1 BFS
 - [x] BFS
+- [ ] Bidirectional BFS
 - [x] Connected Components
 - [x] DFS Calculate entry and exit time
 - [x] DFS
@@ -42,6 +43,8 @@ Important Data Structures and Algorithms.
 - [x] Topological Sort
 - [ ] Floyd Warshall
 - [x] Convex Hull
+- [ ] Applications of BFS
+- [ ] Applications of DFS
 - [ ] [HierHolzers Algorithm](https://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/)
 ## Hashing
 
