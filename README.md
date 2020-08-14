@@ -6,6 +6,7 @@ Important Data Structures and Algorithms.
 
 - [ ] Binary Search [(TopCoder)](https://www.topcoder.com/community/competitive-programming/tutorials/binary-search)
 - [ ] Sieve
+- [ ] Catalan Numbers
 - [ ] Sliding Window Technique
 - [ ] Recursion and Backtracking 
 - [ ] N_Queens (BacktoBackSWE)
