@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=-GtpxG6l_Mc
 #include<bits/stdc++.h>
 using namespace std;
 bool subset_sum(vector<int> &nums)
