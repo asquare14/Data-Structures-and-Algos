@@ -32,21 +32,22 @@ Important Data Structures and Algorithms.
 
 - [x] 0-1 BFS
 - [x] BFS
-- [ ] Bidirectional BFS
-- [x] Connected Components
-- [x] DFS Calculate entry and exit time
-- [x] DFS
-- [ ] Dijisktra
-- [x] Shortest Path in Unweighted Graph
-- [x] Kruskal
-- [ ] Graph Colouring
-- [x] Disjoint Set Union
-- [x] Topological Sort
-- [ ] Floyd Warshall
-- [x] Convex Hull
-- [ ] Applications of BFS
-- [ ] Applications of DFS
-- [ ] [HierHolzers Algorithm](https://www.geeksforgeeks.org/hierholzers-algorithm-directed-graph/)
+- [x] BFS - 2d matrix
+- [x] BFS - Shortest Path in Unweighted Graph
+- [x] BFS - Bi-partite Graph
+- [ ] BFS - Bi-Directional BFS
+- [x] DFS 
+- [x] DFS - Connected Components
+- [x] DFS - All Ancestors in DAG
+- [x] DFS - Calculate entry and exit time
+- [x] DFS - Topological Sort
+- [x] DFS - 2d matrix
+- [x] DFS - Graph Colouring to Find Cycle
+- [ ] DFS - LCA
+- [x] Dijisktra **
+- [x] Disjoint Set Union **
+- [x] Kruskal using DSU
+
 ## Hashing
 
  - [ ] Various Types of Hashing
@@ -68,6 +69,8 @@ Important Data Structures and Algorithms.
 - [x] Insertion Sort
 - [x] Quick Sort
 - [ ] Merge Sort
+- [ ] Inversion Count
+- [ ] Count Numbers Larger and Smaller than Self 
 - [ ] Radix Sort
 - [ ] Count Sort
 - [ ] Heap Sort
@@ -108,6 +111,10 @@ Important Data Structures and Algorithms.
 - [ ] AVL Tree
 - [ ] KMP
 - [ ] [Cartesian Tree](https://www.geeksforgeeks.org/cartesian-tree/)
+- [ ] Floyd Warshall
+- [x] Convex Hull
+- [ ] All applications of DSU 
+
 
 
 
