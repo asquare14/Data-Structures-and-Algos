@@ -1,5 +1,4 @@
-// https://www.youtube.com/watch?v=NR4fpjuxnPA
-#include<bits/stdc++.h> 
+// https://www.youtube.com/watch?v=lAXZGERcDf4&list=PLrmLmBdmIlpu2f2g8ltqaaCZiq6GJvl1j&index=2#include<bits/stdc++.h> 
 using namespace std; 
 
 //graph
@@ -40,7 +39,7 @@ void dijisktra(int src)
             
         int nodeDist = p.first;
         s.erase(s.begin());
-
+        
         for(auto childPair: m[node]){    
             if(nodeDist + childPair.second < dist[childPair.first]){
                 int dest = childPair.first;

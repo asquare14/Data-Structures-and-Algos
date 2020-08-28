@@ -21,7 +21,9 @@ void bfs(vector<int> adj[],int s,int dest, int V)
             if (!used[u]) {
                 used[u] = true;
                 q.push(u);
+                // stores distance
                 d[u] = d[v] + 1;
+                // stores immediate pre-decessor
                 p[u] = v;
             }
         }
@@ -40,8 +42,6 @@ void bfs(vector<int> adj[],int s,int dest, int V)
         for (int v : path)
             cout << v << " ";
     }
-   
-
 }
 
 int main()

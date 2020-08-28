@@ -1,4 +1,4 @@
-// Only DAGs have a vlaid Topological Sort ordering
+// Only DAGs have a valid Topological Sort ordering
 #include<bits/stdc++.h>
 using namespace std;
 

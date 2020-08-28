@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 // Check if path exists from src to dest using BFS
-// https://cp-algorithms.com/graph/breadth-first-search.html
 void addEdge(vector<int> adj[],int v,int u)
 {
     adj[v].push_back(u);
@@ -12,19 +11,20 @@ void bfs(vector<int> adj[],int s,int V)
     queue<int> q;
     vector<bool> used(V);
     q.push(s);
-    used[s] = true;
-    while (!q.empty()) {
-        int v = q.front();
+    while(!q.empty())
+    {
+        int node = q.top();
         q.pop();
-        cout<<v<<" ";
-        for (int u : adj[v]) {
-            if (!used[u]) {
-                used[u] = true;
-                q.push(u);
+        for(int i=0;i<adj[node].size();i++)
+        {
+            if(!used[adj[node][i]])
+            {
+                used[adj[node][i]] = true;
+                q.push(used[adj[node][i]]);
             }
         }
     }
-    cout<<endl;
+
 
 }
 
