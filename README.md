@@ -36,7 +36,7 @@ Important Data Structures and Algorithms.
 - [x] BFS - 2d matrix
 - [x] BFS - Shortest Path in Unweighted Graph
 - [x] BFS - Bi-partite Graph
-- [ ] BFS - Bi-Directional BFS
+- [x] BFS - Bi-Directional BFS
 - [x] DFS 
 - [x] DFS - Connected Components
 - [x] DFS - All Ancestors in DAG
