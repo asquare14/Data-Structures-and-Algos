@@ -19,6 +19,7 @@ Important Data Structures and Algorithms.
 ## BST
 
 - [ ] Search, Insert, Delete, Find
+- [ ] Leetcode List
 
 ## Dynamic Programming
 
@@ -86,7 +87,7 @@ Important Data Structures and Algorithms.
 - [x] Flatten Tree
 - [x] Height of Tree
 - [x] Iterative Traversals
-- [ ] Lowest Common Ancestor
+- [x] Lowest Common Ancestor
 - [x] Level Order Traversal
 - [x] Recursive Traversals
 - [ ] Diagonal Traversal

@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// https://www.youtube.com/watch?v=-GtpxG6l_Mc
 int partition(vector<int> &arr)
 {
     int n = arr.size();
