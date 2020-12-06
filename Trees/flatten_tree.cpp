@@ -1,35 +1,64 @@
 #include<bits/stdc++.h> 
 using namespace std; 
   
-// A BT Node 
+// https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solution/
 struct Node 
 { 
     int data; 
     struct Node* left, *right; 
 }; 
-  
+Node* flattenWorker(Node* root) {
+    if (root == nullptr) {
+        return NULL;
+    }
+    if(root->left==NULL && root->right==NULL)
+        return root;
+    TreeNode* l = flattenWorker(root->left);
+    TreeNode* r = flattenWorker(root->right);
+    if(l)
+    {
+        l->right = root->right;
+        root->right = root->left;
+        root->left = NULL;
+    }
+    return r == NULL ? l :r;
+}
+// Greedily Change the Pointers
+void  flattenWorkerIterative(Node* root)
+{
+        if (root == nullptr) {
+            return;
+        }
+        
+        TreeNode* node = root;
+        
+        while (node != nullptr) {
+            
+            // If the node has a left child
+            if (node->left != nullptr) {
+                
+                // Find the rightmost node
+                TreeNode* rightmost = node->left;
+                while (rightmost->right != nullptr) {
+                    rightmost = rightmost->right;
+                }
+                
+                // rewire the connections
+                rightmost->right = node->right;
+                node->right = node->left;
+                node->left = nullptr;
+            }
+            
+            // move on to the right side of the tree
+            node = node->right;
+        }
+}
 void flatten(Node* root)
 {
-    if(root==NULL || root->left==NULL || root->right==NULL)
-    {
-        return;
-    }
-    if(root->left!=NULL)
-    {
-        flatten(root->left);
-        
-        struct Node* tmpRight = root->right; 
-        root->right = root->left; 
-        root->left = NULL; 
-        
-        struct Node* t = root->right; 
-        while (t->right != NULL) { 
-            t = t->right; 
-        } 
-  
-        t->right = tmpRight; 
-    }
-    flatten(root->right);
+    // Recursive, O(N) time , O(N) space
+    flattenWorker(root);
+    // Iterative O(n) time, O(1) space
+    flattenWorkerIterative(root);
 }
 // Utility function to create new Node 
 Node *newNode(int data) 

@@ -58,10 +58,11 @@ Important Data Structures and Algorithms.
 
 ## Linked List
 
-- [x] Basic stuff 
-- [ ] Merge Sort a Linked List
+- [x] Insert
+- [x] Delete Nth Node
+- [x] Reverse
+- [ ] Merge Two Sorted Linked List
 - [ ] Fast Pointer, Slow Pointer technique
-- [ ] Reverse LL
 - [ ] Doubly Linked List
 
 ## Searching and Sorting
@@ -89,6 +90,7 @@ Important Data Structures and Algorithms.
 - [x] Iterative Traversals
 - [x] Lowest Common Ancestor
 - [x] Level Order Traversal
+- [x] Diameter of a Binary Tree
 - [x] Recursive Traversals
 - [ ] Diagonal Traversal
 - [ ] Vertical Traversal
@@ -103,17 +105,33 @@ Important Data Structures and Algorithms.
 
 ## Design Questions
 
-- [ ] Refer Leetcode
+- [ ] Max Stack
+- [ ] Design twitter
+
+## Operating Systems
+
+- [ ] SJF
+- [ ] FCFS
+- [ ] Round Robin
+- [ ] Print numbers in sequence using different threads.
+- [ ] Bounded Buffer Problem
+- [ ] Dining Philosophers Problem
+- [ ] The Readers Writers Problem
+- [ ] LRU Cache
+- [ ] Banker's Algorithm
 
 ## Optional/Theory only
 
 - [ ] Binary Indexed Tree
-- [ ] Segment Tree
+- [x] [Segment Tree](https://leetcode.com/articles/a-recursive-approach-to-segment-trees-range-sum-queries-lazy-propagation/)
+- [x] Segment Tree (RMQ)
 - [ ] AVL Tree
 - [ ] KMP
 - [ ] [Cartesian Tree](https://www.geeksforgeeks.org/cartesian-tree/)
 - [ ] Floyd Warshall
-- [x] Convex Hull
+- [ ] Convex Hull
+- [ ] Line Sweep
+- [ ] Manacher's Algorithm
 - [ ] All applications of DSU 
 
 
