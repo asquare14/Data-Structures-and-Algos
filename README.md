@@ -48,6 +48,7 @@ Important Data Structures and Algorithms.
 - [x] Dijisktra **
 - [x] Disjoint Set Union **
 - [x] Kruskal using DSU
+- [ ] Kosaraju SCC (https://www.youtube.com/watch?v=RpgcYiky7uw)
 
 ## Hashing
 
