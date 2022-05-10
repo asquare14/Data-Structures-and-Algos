@@ -35,20 +35,20 @@ void addEdge(int v, int w,vector<vector<int>> &adj)
 } 
 
 int hasCycle(vector<vector<int>> &adj, int V) {
-    for (int v = 0; v < V; ++v) 
-        parent[v] = v;
+    
     
     for(auto edge:adj)
     {
         int x = edge[0];
         int y = edge[1];
-        if(x==y)
-            return 1;
+        if(find_set(x)==find_set(y))
+            return 1;    
         union_sets(x,y);
     }
 
     return 0;
 }
+
 int main()
 {
     int V;
