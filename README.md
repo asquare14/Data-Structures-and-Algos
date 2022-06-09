@@ -49,6 +49,8 @@ Important Data Structures and Algorithms.
 - [x] Disjoint Set Union **
 - [x] Kruskal using DSU
 - [ ] Kosaraju SCC (https://www.youtube.com/watch?v=RpgcYiky7uw)
+- [ ] Kahn's Algo for Top Sort
+- [ ] Articulation Points (https://cp-algorithms.com/graph/cutpoints.html)
 
 ## Hashing
 
@@ -97,6 +99,7 @@ Important Data Structures and Algorithms.
 - [ ] Vertical Traversal
 - [ ] Serialize and Deserialize Trees
 - [x] Trie
+- [ ] Rope Structure 
 
 ## Strings
 
